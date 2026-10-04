@@ -2,15 +2,74 @@ SQV License
 
 Copyright (c) 2026 VaKaVo
 
-All Rights Reserved.
+All rights reserved.
 
-You may download and use this mod for personal gameplay.
-You may include this mod in modpacks.
-You may use this mod in videos, streams, and screenshots.
+1. Definitions
+For the purposes of this License:
+"Software" means the source code, compiled code, documentation, assets, configuration files, and other materials distributed under this License.
+"Author" means the copyright holder identified above.
+"Derivative Work" means any modified, adapted, or otherwise transformed version of the Software that contains or is substantially based on the Software or its source code.
+"User" means any person or entity obtaining or using the Software.
 
-You may not reupload or redistribute this mod outside approved modpacks.
-You may not modify and publish this mod.
-You may not sell this mod.
-You may not claim this mod as your own.
+2. Permission
+Subject to the terms and conditions of this License, the Author grants the User a limited, non-exclusive, non-transferable, revocable license to:
+use the Software for personal, educational, research, and non-commercial purposes;
+access and study the source code;
+run, test, and modify the Software for personal or educational purposes;
+create private modifications and experimental versions of the Software.
 
-For permission requests, contact the author.
+3. Restrictions
+The following actions are strictly prohibited without prior written permission from the Author:
+Selling, licensing, renting, leasing, or otherwise commercially exploiting the Software or any substantial portion of it.
+Redistributing, republishing, mirroring, re-uploading, or otherwise making the Software or substantial portions of it available to third parties.
+Uploading the Software, modified versions of it, or substantial portions of it to another repository, website, marketplace, archive, package registry, or similar service.
+Claiming or implying that the Software, its source code, or substantial portions of it were created or authored by someone other than the Author.
+Removing, modifying, or concealing copyright notices, license notices, author attribution, or other ownership notices included with the Software.
+Using the Software or its source code as the basis for a competing product intended to replace or commercially exploit the Software without written permission from the Author.
+Selling access to the Software, including access through paid repositories, subscriptions, downloads, services, or other monetization methods.
+Using the Software in a way that falsely suggests endorsement, sponsorship, partnership, or affiliation with the Author.
+
+4. Derivative Works
+The User may create private modifications of the Software for personal, educational, or research purposes.
+However, Derivative Works containing the Software or substantial portions of its source code may not be publicly distributed, published, sold, licensed, or otherwise made available to third parties without prior written permission from the Author.
+Independent software that merely uses concepts, ideas, techniques, or publicly observable functionality of the Software, without copying substantial portions of its source code or assets, is not considered a Derivative Work solely for that reason.
+
+5. Attribution
+Any permitted use of the Software must retain all existing copyright and license notices.
+Where attribution is reasonably applicable, the following attribution is recommended:
+Based on [PROJECT NAME] by [AUTHOR / ORGANIZATION].
+Attribution does not grant any additional rights to use, distribute, or commercially exploit the Software.
+
+6. Commercial Use
+Any commercial use of the Software requires prior written permission from the Author.
+The Author may grant a separate commercial license under terms agreed upon by the parties.
+Examples of commercial use include, but are not limited to:
+selling the Software or copies of it;
+selling modified versions containing substantial portions of the Software;
+charging for access to the Software;
+incorporating substantial portions of the Software into a commercial product or service;
+using the Software as part of a paid service where the Software itself is a substantial component.
+
+7. Ownership
+The Software is licensed, not sold.
+No ownership, copyright, trademark, or other intellectual property rights are transferred to the User by this License.
+All rights not expressly granted under this License are reserved by the Author.
+
+8. Termination
+Any violation of this License automatically terminates the rights granted under it.
+Upon termination, the User must immediately cease all use, distribution, publication, and commercial exploitation of the Software, except where continued use is required or permitted by applicable law.
+
+9. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+10. Reservation of Rights
+The Author reserves all rights not expressly granted by this License.
+Requests for permissions not granted by this License, including commercial use or redistribution, may be submitted to:
+
+Author: [AUTHOR / ORGANIZATION]
+Contact: [EMAIL / CONTACT URL]
+
+Copyright (c) [YEAR] [AUTHOR / ORGANIZATION]
+
+SQV License 1.0
